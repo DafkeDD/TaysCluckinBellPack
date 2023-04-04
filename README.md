@@ -25,6 +25,16 @@ So what are you waiting for? Order your Cluckin' Bell uniform today and start se
 
 --------------------------------
 
+# Screenshots 📸
+
+| | | |
+|-|-|-|
+| <img src="SCREENSHOTS/CB001.png" width="1050"> | <img src="SCREENSHOTS/CB002.png" width="1050"> | <img src="SCREENSHOTS/CB003.png" width="1050"> |
+| <img src="SCREENSHOTS/CB004.png" width="1050">  | <img src="SCREENSHOTS/CB005.png" width="1050"> | <img src="SCREENSHOTS/CB006.png" width="1050"> |
+|                                                | <img src="SCREENSHOTS/CB007.png" width="1050">  |                                              |
+--------------------------------
+
+
 # Content:
 
 1x Male shirt
